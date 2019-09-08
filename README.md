@@ -21,3 +21,6 @@ The is no way to contribute Kukuku!
 
 ## Copyright
 2019 Git.Training. All rigths reserved.
+
+## Updated from Dev 1
+Updaaaaatesss!
